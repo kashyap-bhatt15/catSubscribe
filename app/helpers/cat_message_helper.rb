@@ -1,0 +1,2 @@
+module CatMessageHelper
+end
